@@ -1,7 +1,7 @@
 webapp-base
 ====================
 
-This is a simple, skeleton application for php developers. This application is meant to be used as a starting point or base application to begin a php project.
+This is a simple skeleton application for php developers. This application is meant to be used as a starting point or base application to begin a php project.
 
 Directories Structure:
 * apps: Application specific code.
